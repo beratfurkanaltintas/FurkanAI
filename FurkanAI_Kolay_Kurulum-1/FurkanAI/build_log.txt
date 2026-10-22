@@ -1,0 +1,106 @@
+Could not find platform independent libraries <prefix>
+33 DEPRECATION: Running PyInstaller as admin is not necessary nor sensible. Run PyInstaller from a non-administrator terminal. PyInstaller 7.0 will block this.
+91 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.8
+91 INFO: Python: 3.14.7
+113 INFO: Platform: Windows-11-10.0.26300-SP0
+113 INFO: Python environment: C:\Users\berat\Downloads\FurkanAI_Kolay_Kurulum-1\FurkanAI
+114 INFO: wrote C:\Users\berat\Downloads\FurkanAI_Kolay_Kurulum-1\FurkanAI\FurkanAI.spec
+115 INFO: Removing temporary files and cleaning cache in C:\Users\berat\AppData\Local\pyinstaller
+116 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI',
+ 'C:\\Python314\\python314.zip',
+ 'C:\\Users\\berat\\AppData\\Local\\Programs\\Python\\Python314\\Lib',
+ 'C:\\Users\\berat\\AppData\\Local\\Programs\\Python\\Python314\\DLLs',
+ 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI',
+ 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib',
+ 'C:\\Python314',
+ 'C:\\Users\\berat\\AppData\\Roaming\\Python\\Python314\\site-packages',
+ 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages',
+ 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\win32',
+ 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\win32\\lib',
+ 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\pythonwin',
+ 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI']
+Could not find platform independent libraries <prefix>
+304 INFO: Appending 'datas' from .spec
+304 INFO: checking Analysis
+304 INFO: Building Analysis because Analysis-00.toc is non existent
+304 INFO: Looking for Python shared library...
+304 INFO: Using Python shared library: C:\Python314\python314.dll
+304 INFO: Running Analysis Analysis-00.toc
+304 INFO: Target bytecode optimization level: 0
+304 INFO: Initializing module dependency graph...
+305 INFO: Initializing module graph hook caches...
+314 INFO: Analyzing modules for base_library.zip ...
+Could not find platform independent libraries <prefix>
+Could not find platform independent libraries <prefix>
+Could not find platform independent libraries <prefix>
+1346 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+Could not find platform independent libraries <prefix>
+1669 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+1833 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+1920 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+1932 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+3608 INFO: Caching module dependency graph...
+3629 INFO: Analyzing C:\Users\berat\Downloads\FurkanAI_Kolay_Kurulum-1\FurkanAI\main.py
+3688 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+3689 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+Could not find platform independent libraries <prefix>
+3901 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+3965 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+3999 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+4003 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+4022 INFO: Processing standard module hook 'hook-webbrowser.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+4069 INFO: Processing standard module hook 'hook-psutil.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+4150 INFO: Processing standard module hook 'hook-speech_recognition.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+4261 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+4331 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+4517 INFO: Processing pre-safe-import-module hook 'hook-tensorflow.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\pre_safe_import_module'
+4524 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+4525 INFO: SetuptoolsInfo: initializing cached setuptools info...
+Could not find platform independent libraries <prefix>
+5316 INFO: Processing standard module hook 'hook-pyttsx3.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+5326 INFO: Analyzing hidden import 'pyttsx3.drivers'
+5326 INFO: Analyzing hidden import 'pyttsx3.drivers.sapi5'
+5441 INFO: Processing standard module hook 'hook-comtypes.client.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+5673 INFO: Processing standard module hook 'hook-pythoncom.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+Could not find platform independent libraries <prefix>
+5765 INFO: Processing standard module hook 'hook-pywintypes.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+Could not find platform independent libraries <prefix>
+5819 INFO: Processing module hooks (post-graph stage)...
+5859 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks'
+5861 INFO: Performing binary vs. data reclassification (20 entries)
+5864 INFO: Looking for ctypes DLLs
+5928 INFO: Analyzing run-time hooks ...
+5929 INFO: Including run-time hook 'pyi_rth_pythoncom.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks'
+5930 INFO: Including run-time hook 'pyi_rth_pywintypes.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks'
+5931 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+5932 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+5934 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+5935 INFO: Including run-time hook 'pyi_rth__tkinter.py' from 'C:\\Users\\berat\\Downloads\\FurkanAI_Kolay_Kurulum-1\\FurkanAI\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+5939 INFO: Creating base_library.zip...
+5950 INFO: Looking for dynamic libraries
+Could not find platform independent libraries <prefix>
+6155 INFO: Extra DLL search directories (AddDllDirectory): []
+6155 INFO: Extra DLL search directories (PATH): []
+6316 INFO: Warnings written to C:\Users\berat\Downloads\FurkanAI_Kolay_Kurulum-1\FurkanAI\build\FurkanAI\warn-FurkanAI.txt
+6332 INFO: Graph cross-reference written to C:\Users\berat\Downloads\FurkanAI_Kolay_Kurulum-1\FurkanAI\build\FurkanAI\xref-FurkanAI.html
+6346 INFO: checking PYZ
+6346 INFO: Building PYZ because PYZ-00.toc is non existent
+6346 INFO: Building PYZ (ZlibArchive) C:\Users\berat\Downloads\FurkanAI_Kolay_Kurulum-1\FurkanAI\build\FurkanAI\PYZ-00.pyz
+6482 INFO: Building PYZ (ZlibArchive) C:\Users\berat\Downloads\FurkanAI_Kolay_Kurulum-1\FurkanAI\build\FurkanAI\PYZ-00.pyz completed successfully.
+6488 INFO: checking PKG
+6488 INFO: Building PKG because PKG-00.toc is non existent
+6488 INFO: Building PKG (CArchive) FurkanAI.pkg
+8748 INFO: Building PKG (CArchive) FurkanAI.pkg completed successfully.
+8749 INFO: Bootloader C:\Users\berat\Downloads\FurkanAI_Kolay_Kurulum-1\FurkanAI\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+8749 INFO: checking EXE
+8749 INFO: Building EXE because EXE-00.toc is non existent
+8749 INFO: Building EXE from EXE-00.toc
+8749 INFO: Copying bootloader EXE to C:\Users\berat\Downloads\FurkanAI_Kolay_Kurulum-1\FurkanAI\dist\FurkanAI.exe
+8753 INFO: Copying icon to EXE
+8755 INFO: Copying 0 resources to EXE
+8755 INFO: Embedding manifest in EXE
+8757 INFO: Appending PKG archive to EXE
+8779 INFO: Fixing EXE headers
+8950 INFO: Building EXE from EXE-00.toc completed successfully.
+8952 INFO: Build complete! The results are available in: C:\Users\berat\Downloads\FurkanAI_Kolay_Kurulum-1\FurkanAI\dist
